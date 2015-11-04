@@ -1,4 +1,9 @@
-#Introduction
+#COURSERA
+
+#Exploratory Data Analysis
+
+
+
 
 This project uses data from the UC Irvine Machine Learning Repository
 (http://archive.ics.uci.edu/ml/), a popular repository for machine learning datasets. In particular, we will be
